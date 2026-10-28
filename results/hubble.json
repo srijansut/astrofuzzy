@@ -1,0 +1,9 @@
+{
+  "shape": [
+    256,
+    256
+  ],
+  "source": "skimage.data.hubble_deep_field",
+  "quantitative_accuracy": null,
+  "reason": "No independent ground-truth labels; display RGB is not calibrated FITS photometry."
+}

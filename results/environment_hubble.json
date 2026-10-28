@@ -1,0 +1,22 @@
+{
+  "python": "3.9.6",
+  "numpy": "2.0.2",
+  "scipy": "1.13.1",
+  "configuration": {
+    "clusters": 3,
+    "m": 2.0,
+    "spatial": 0.15,
+    "hesitation": 1.0,
+    "degree": 2,
+    "ridge": 1e-05,
+    "iterations": 80,
+    "tolerance": 1e-05
+  },
+  "command": {
+    "experiment": "hubble",
+    "out": "results",
+    "seeds": 10,
+    "size": 256,
+    "image": null
+  }
+}
