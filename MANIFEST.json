@@ -1,0 +1,98 @@
+{
+  ".gitignore": {
+    "sha256": "53b440f8e1555087aa88b6388ce935020e126279c3928b79e1c793657893725c",
+    "bytes": 91
+  },
+  "README.md": {
+    "sha256": "322eb5279b96ed89c3e61bdad3a382ea643c355c2d0ac61ff298896a9d605408",
+    "bytes": 4628
+  },
+  "REVIEW.md": {
+    "sha256": "521276cb00aec01d16234f3f778882c401b50775c87adeff563b2ca15f384304",
+    "bytes": 2728
+  },
+  "SOURCE_BUNDLE.md": {
+    "sha256": "45330c3bc1527fd848cac35ea2afa70b412dbdf55d86ea59c28aa21e32f9296f",
+    "bytes": 50490
+  },
+  "astrofuzzy/__init__.py": {
+    "sha256": "1feb1d54069c662a785d14e16202029a60113d0cd963df80e74f56d05a5b6df7",
+    "bytes": 106
+  },
+  "astrofuzzy/core.py": {
+    "sha256": "54c7b20aa1ac479fb0ca9aa371666a776e8aaeec2ac991a85fdb04f50d3c4f89",
+    "bytes": 6814
+  },
+  "astrofuzzy/experiments.py": {
+    "sha256": "a0acadd4bc86f78e8fc4cfc7d6e95773c843deecb0c9d3db5bd2fafb7cbec98c",
+    "bytes": 6692
+  },
+  "paper/main.pdf": {
+    "sha256": "8705cf5ee296f569b9dc12e242a36a47c0ee339758a6ec6681f5ddd0b07fb2be",
+    "bytes": 1389058
+  },
+  "paper/main.tex": {
+    "sha256": "e7c49bc914236c24270be7e95f4525494dd0df1f114dde9a72c2c23965bf3ae4",
+    "bytes": 33879
+  },
+  "paper/manuscript.md": {
+    "sha256": "6ecb9fe88d0bc9c316947a7fc2ff7a22e52f5dba7cd58f00d33c085061ba2aca",
+    "bytes": 31301
+  },
+  "pyproject.toml": {
+    "sha256": "d3e55a88e45269db3f1f53b3608be5cc9d3827808e18b1341c8e2ac45c826263",
+    "bytes": 523
+  },
+  "results/ablation.csv": {
+    "sha256": "5939696434aed7ee817959024304ca9f2fd5fc2fe0721d0304246580c0e748bd",
+    "bytes": 6745
+  },
+  "results/dependencies.json": {
+    "sha256": "e86d4020020b5f409ecc9119397621f8b44a6306ebd497e5ae0f8028aadf3071",
+    "bytes": 134
+  },
+  "results/environment_all.json": {
+    "sha256": "15c519a04ff2d3492c95a6fb0e90568c20231b76341c2595cd8489a4bc926174",
+    "bytes": 367
+  },
+  "results/environment_hubble.json": {
+    "sha256": "77abbebbedbf451327f7028d39fa04f6898a6e85a49237f3a0510f1b93aeab1c",
+    "bytes": 371
+  },
+  "results/hubble.json": {
+    "sha256": "1416241ad2daed0eb88064661c8a44975060ac490c041bc331e2b14bcdaf9c49",
+    "bytes": 214
+  },
+  "results/hubble.png": {
+    "sha256": "50b1cce71950b99378ab29eaa9836cfdb95ce572871f0295986e3b0f37dc598b",
+    "bytes": 1208958
+  },
+  "results/hubble_scores.npz": {
+    "sha256": "444d858bf7ca8da9efb0ec2318e7c3812303b024316391b013dff097bbb08e3f",
+    "bytes": 2183428
+  },
+  "results/requirements-tested.txt": {
+    "sha256": "a5c53569e0786f9c8ace47c1953f8748af423e9f8c6f847163ffdf8eac8d05f1",
+    "bytes": 100
+  },
+  "results/sensitivity.csv": {
+    "sha256": "aa5487cb11bd3ddc4061f759be82b90262bebed21d669192367fe17a33cad921",
+    "bytes": 4564
+  },
+  "results/summary.json": {
+    "sha256": "c19f0a8e2919237e41f48a359cd0d3b7c6d05bae5405c1c8dbecf1cf597b873c",
+    "bytes": 1055
+  },
+  "results/synthetic.png": {
+    "sha256": "e9464ef8ff5ad191772fa6bc427561df226ff5d6879d14a57ff5d20d6c7c4826",
+    "bytes": 179018
+  },
+  "results/test_report.txt": {
+    "sha256": "7ca832cdad5bc684bd4be1add92ded00843f649c503f8fb61a57165156d1cca8",
+    "bytes": 98
+  },
+  "tests/test_core.py": {
+    "sha256": "882206596404fef881d8aa15b79d127429830ea2c1a1113e98c9f128494b45d3",
+    "bytes": 2218
+  }
+}
